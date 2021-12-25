@@ -9,6 +9,7 @@
 		<nav class="menu">
 			<a href="tasks/simpleTable.php">Урок 1</a>
 			<a href="tasks/colorizedTable.php">Урок 2</a>
+			<a href="tasks/reverseStringForm.php">Урок 3</a>
 		</nav>
 	</header>
 
