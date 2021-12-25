@@ -6,3 +6,19 @@ table {
 table td {
 	border: 1px solid #000;
 }
+
+.red {
+	color: #E21B32;
+}
+
+.green {
+	color: green;
+}
+
+.yellow {
+	color: #FEDE00;
+}
+
+.blue {
+	color: #57A5B8;
+}
